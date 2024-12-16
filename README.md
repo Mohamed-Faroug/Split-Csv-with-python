@@ -17,7 +17,7 @@ This Python script splits large CSV files into smaller parts, ensuring that each
 
 1. Clone this repository:
    ```bash
-   git clone (https://github.com/Mohamed-Faroug/Split-Csv-with-python.git)
+   git clone https://github.com/Mohamed-Faroug/Split-Csv-with-python.git
    ```
 2. Navigate to the repository folder:
    ```bash
